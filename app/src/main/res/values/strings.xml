@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ExercicioTeste</string>
+    <string name="nome">Nome</string>
+    <string name="idade">Idade</string>
+    <string name="email">Email</string>
+    <string name="telefone">Telefone</string>
+    <string name="enviar">Enviar</string>
+    <string name="textview">TextView</string>
+    <string name="textview">TextView</string>
+    <string name="textview">TextView</string>
+    <string name="textview">TextView</string>
+</resources>
